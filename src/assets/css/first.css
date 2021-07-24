@@ -1,0 +1,121 @@
+.finish-wrap{
+    background-color:#283238;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    color:white;
+    font-family: 'Arial','Tahoma','Verdana','snas-serif';
+}
+.finish-wrap h1 {
+    color:white;
+    text-align:center;
+    margin-top:15%;
+}
+
+.center-wrap {
+    margin-left:auto;
+    margin-right:auto;
+    width:630px;
+}
+
+.box-wrap {
+    margin-top:20px;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.half-wrap {
+    width:50%;
+    height:20%;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:25px;
+    padding-bottom:25px;
+    float:left;
+}
+
+#left {
+    padding-right:0px;
+}
+
+#right {
+    padding-left:0px;
+}
+
+.half-wrap a{
+    text-decoration: none;
+    font-weight:bold;
+    color: #757E84;
+    font-size:20px;
+    text-align: center;
+}
+
+.p1 {
+    color: #757E84;
+}
+
+.ant-divider-horizontal {
+    margin:0;
+    margin-top:8px;
+    height:2px;
+    width:100%;
+}
+
+p{
+    margin:0;
+}
+
+.selected p{
+    color:#474747;
+}
+
+.selected .ant-divider{
+    background:#474747;
+    height:2.5px;
+    margin-top:15px;
+}
+
+.ant-divider-horizontal {
+    margin-top: 15px !important;
+}
+
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+#components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
+
+.btn_register {
+    float:right;
+    margin-right:80px;
+}
+
+button {
+    width:100px;
+}
+
+.login-button {
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+}
+
+.ant-form-item {
+    margin-bottom:15px;
+}
+
+.form {
+    padding-top:80px;
+}
+
+.login-button {
+    margin-top:36px;
+    padding-bottom:20px;
+}

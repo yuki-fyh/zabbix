@@ -1,0 +1,55 @@
+p {
+    color:white;
+    text-align:center;
+    line-height:10px;
+    font-weight:550;
+}
+
+#box1 {
+    margin-top:25px;
+    margin-bottom:25px;
+}
+
+#menu span{
+    font-weight:520;
+    font-size:15px;
+}
+
+#icon1 {
+    fontSize: 16px;
+    color: white
+}
+
+#icon1:hover {
+    color:#3c91ff
+}
+
+#bread {
+    margin-top:15px;
+    margin-bottom:-14px;
+    font-size:16px;
+    margin-left:20px;
+}
+
+svg {
+    line-height:40px;
+    vertical-align: center;
+}
+
+.icon2 {
+    width:30px;
+    height:20px;
+    display:inline-block;
+    margin-top:2px;
+    float:left;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+    background-color: #1890ff;
+    border-radius: 10px;
+}
+
+.ant-menu-dark.ant-menu-inline .ant-menu-item, .ant-menu-dark.ant-menu-inline .ant-menu-submenu-title {
+    width: 86% !important;
+    margin: auto !important;
+}

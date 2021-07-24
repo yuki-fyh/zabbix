@@ -1,0 +1,12 @@
+.finish-wrap h2 {
+    text-align:center;
+    font-weight:bold;
+    color: #757E84;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:25px;
+}
+
+.form {
+    padding-top:10px;
+}
